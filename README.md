@@ -1,2 +1,2 @@
 # doc
-[toto](./toto)
+[toto](toto.md)
